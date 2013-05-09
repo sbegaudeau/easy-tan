@@ -1,0 +1,59 @@
+
+================================================
+TITRE DU JEU DE DONNEES
+================================================
+
+Eléments de la charte graphique TAN
+
+================================================
+DESCRIPTION
+================================================
+Pictogrammes propres à la TAN, composant leur charte graphique (JPG/GIF).
+
+Thèmes 							: Mobilité
+
+================================================
+INFORMATIONS TECHNIQUES
+================================================
+
+Date de dernière mise à jour    : 05/12/2012
+Fréquence de mise à jour 		: variable / ponctuelle 
+
+Derniere mise à jour technique	:
+
+	Date : 24/09/2012
+	Nature de la modification : Mise à jour - sept 2012
+	Description de la modification : Mise à jour à la suite de la mise en service des lignes Chronobus
+
+================================================
+ATTRIBUTS
+================================================
+
+
+ 
+
+================================================
+CONTACT
+================================================
+
+Pour toute demande d'information ou remarque, 
+merci de passer par le forum du site http://data.nantes.fr
+
+================================================
+INFORMATIONS LEGALES
+================================================
+
+
+Propriétaire : Semitan
+
+Gestionnaire : Semitan
+
+Diffuseur	 : Nantes Métropole
+
+Licence      : Open Database License (ODbL)
+
+================================================
+SIGNATURES DES FICHIERS
+================================================
+
+CHARTE_GRAPH_TAN.zip (md5) : dc2665ad11b5ea10f7f3ba9b790d682f

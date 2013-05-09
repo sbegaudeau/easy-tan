@@ -1,0 +1,14 @@
+<div class="hero-unit">
+  <h1>Easy Tan</h1>
+</div>
+<div class="span12">
+  <a href="#/">
+    <img ng-src="/images/lignes/{{ligne.route_short_name}}.gif" class="img-polaroid" title="{{ligne.route_desc}}"/>
+  </a>
+  <h3>{{ligne.route_long_name}} - {{ligne.route_desc}}</h3>
+  <table>
+    <tr ng-repeat="arret in arrets">
+      <td><a href="#/arrets/{{arret}}">{{arret.name}}</a></td>
+    </tr>
+  </table>
+</div>

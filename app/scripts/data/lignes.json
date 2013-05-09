@@ -1,0 +1,457 @@
+[
+  {
+    "route_id":"1-0",
+    "route_short_name":"1",
+    "route_long_name":"Ligne  1",
+    "route_desc":"François Mitterrand - Beaujoire / Ranzay",
+    "route_type":1
+  },
+  {
+    "route_id":"2-0",
+    "route_short_name":"2",
+    "route_long_name":"Ligne  2",
+    "route_desc":"Orvault Grand Val - Gare de Pont Rousseau",
+    "route_type":1
+  },
+  {
+    "route_id":"3-0",
+    "route_short_name":"3",
+    "route_long_name":"Ligne  3",
+    "route_desc":"Marcel Paul - Neustrie",
+    "route_type":1
+  },
+  {
+    "route_id":"4-0",
+    "route_short_name":"4",
+    "route_long_name":"Ligne  4",
+    "route_desc":"Foch - Cathédrale - Porte de Vertou",
+    "route_type":2
+  },
+  {
+    "route_id":"11-0",
+    "route_short_name":"11",
+    "route_long_name":"Ligne 11",
+    "route_desc":"Tertre - Perray",
+    "route_type":3
+  },
+  {
+    "route_id":"12-0",
+    "route_short_name":"12",
+    "route_long_name":"Ligne 12",
+    "route_desc":"Colinière / Jules Verne - Beauséjour",
+    "route_type":3
+  },
+  {
+    "route_id":"22-0",
+    "route_short_name":"22",
+    "route_long_name":"Ligne 22 version travaux",
+    "route_desc":"St-Joseph Porterie / Atlanpôle - Hermeland",
+    "route_type":3
+  },
+  {
+    "route_id":"23-0",
+    "route_short_name":"23",
+    "route_long_name":"Ligne 23",
+    "route_desc":"Commerce - Mendès France - Bellevue",
+    "route_type":3
+  },
+  {
+    "route_id":"24-0",
+    "route_short_name":"24",
+    "route_long_name":"Ligne 24",
+    "route_desc":"Commerce - Pirmil",
+    "route_type":3
+  },
+  {
+    "route_id":"25-0",
+    "route_short_name":"25",
+    "route_long_name":"Ligne 25",
+    "route_desc":"Ecole Centrale - Audencia - Gare de Chantenay",
+    "route_type":3
+  },
+  {
+    "route_id":"27-0",
+    "route_short_name":"27",
+    "route_long_name":"Ligne 27",
+    "route_desc":"La Herdrie - Pirmil",
+    "route_type":3
+  },
+  {
+    "route_id":"28-0",
+    "route_short_name":"28",
+    "route_long_name":"Ligne 28",
+    "route_desc":"Vertou - Pirmil",
+    "route_type":3
+  },
+  {
+    "route_id":"29-0",
+    "route_short_name":"29",
+    "route_long_name":"Ligne 29",
+    "route_desc":"La Herdrie - Pirmil",
+    "route_type":3
+  },
+  {
+    "route_id":"30-0",
+    "route_short_name":"30",
+    "route_long_name":"Ligne 30",
+    "route_desc":"Savarières - Trentemoult",
+    "route_type":3
+  },
+  {
+    "route_id":"33-0",
+    "route_short_name":"33",
+    "route_long_name":"Ligne 33",
+    "route_desc":"Robinière / Aufrère - Ecpace Diderot",
+    "route_type":3
+  },
+  {
+    "route_id":"36-0",
+    "route_short_name":"36",
+    "route_long_name":"Ligne 36",
+    "route_desc":"Gréneraie - Neustrie",
+    "route_type":3
+  },
+  {
+    "route_id":"37-0",
+    "route_short_name":"37",
+    "route_long_name":"Ligne 37",
+    "route_desc":"Neustrie - Croix Jeannette",
+    "route_type":3
+  },
+  {
+    "route_id":"39-0",
+    "route_short_name":"39",
+    "route_long_name":"Ligne 39",
+    "route_desc":"Chalonges - Pirmil",
+    "route_type":3
+  },
+  {
+    "route_id":"41-0",
+    "route_short_name":"EC",
+    "route_long_name":"Ligne Express Coueron",
+    "route_desc":"Mairie de Couëron - Gare Maritime",
+    "route_type":3
+  },
+  {
+    "route_id":"42-0",
+    "route_short_name":"42",
+    "route_long_name":"Ligne 42",
+    "route_desc":"Vertou - Commerce",
+    "route_type":3
+  },
+  {
+    "route_id":"44-0",
+    "route_short_name":"EV",
+    "route_long_name":"Ligne Express Vertou",
+    "route_desc":"Porte de Vertou - Vertou",
+    "route_type":3
+  },
+  {
+    "route_id":"46-0",
+    "route_short_name":"EB",
+    "route_long_name":"Ligne Express Carquefou",
+    "route_desc":"Carquefou - Haluchère",
+    "route_type":3
+  },
+  {
+    "route_id":"47-0",
+    "route_short_name":"47",
+    "route_long_name":"Ligne 47",
+    "route_desc":"Pégers / Grande Noëlle - Vertou",
+    "route_type":3
+  },
+  {
+    "route_id":"49-0",
+    "route_short_name":"EP",
+    "route_long_name":"Ligne Express Le Pellerin",
+    "route_desc":"Le Pellerin - Greneraie",
+    "route_type":3
+  },
+  {
+    "route_id":"51-0",
+    "route_short_name":"51",
+    "route_long_name":"Ligne 51",
+    "route_desc":"Jonelière - Commerce",
+    "route_type":3
+  },
+  {
+    "route_id":"52-0",
+    "route_short_name":"52",
+    "route_long_name":"Ligne 52",
+    "route_desc":"Hôtel de Région - Haluchère",
+    "route_type":3
+  },
+  {
+    "route_id":"54-0",
+    "route_short_name":"54",
+    "route_long_name":"Ligne 54",
+    "route_desc":"Marcel Paul - Commerce",
+    "route_type":3
+  },
+  {
+    "route_id":"58-0",
+    "route_short_name":"58",
+    "route_long_name":"Ligne 58",
+    "route_desc":"Prairie au Duc/Hangar Bananes - Bd de Doulon",
+    "route_type":3
+  },
+  {
+    "route_id":"59-0",
+    "route_short_name":"59",
+    "route_long_name":"Ligne 59",
+    "route_desc":"Mendès France - Bellevue - Bout des Landes",
+    "route_type":3
+  },
+  {
+    "route_id":"61-0",
+    "route_short_name":"A",
+    "route_long_name":"Circ. A",
+    "route_desc":"Thouaré-sur-Loire - Souillarderie",
+    "route_type":3
+  },
+  {
+    "route_id":"64-0",
+    "route_short_name":"B",
+    "route_long_name":"Circ. B",
+    "route_desc":"Hangar Ã  Bananes - Commerce",
+    "route_type":3
+  },
+  {
+    "route_id":"70-0",
+    "route_short_name":"70",
+    "route_long_name":"Ligne 70",
+    "route_desc":"Gare de Chantenay - Bd de Doulon",
+    "route_type":3
+  },
+  {
+    "route_id":"71-0",
+    "route_short_name":"71",
+    "route_long_name":"Ligne 71",
+    "route_desc":"Beaujoire - Souillarderie",
+    "route_type":3
+  },
+  {
+    "route_id":"72-0",
+    "route_short_name":"72",
+    "route_long_name":"Ligne 72",
+    "route_desc":"Gachet - Facultés",
+    "route_type":3
+  },
+  {
+    "route_id":"73-0",
+    "route_short_name":"73",
+    "route_long_name":"Ligne 73",
+    "route_desc":"Mairie de St-Herblain - Rivière",
+    "route_type":3
+  },
+  {
+    "route_id":"74-0",
+    "route_short_name":"74",
+    "route_long_name":"Ligne 74",
+    "route_desc":"Mendès France - Bellevue - Neustrie",
+    "route_type":3
+  },
+  {
+    "route_id":"75-0",
+    "route_short_name":"75",
+    "route_long_name":"Ligne 75",
+    "route_desc":"Ste-Luce Marché / Bournière - Toutes Aides",
+    "route_type":3
+  },
+  {
+    "route_id":"76-0",
+    "route_short_name":"76",
+    "route_long_name":"Ligne 76",
+    "route_desc":"Gachet / Charbonneau - Beaujoire",
+    "route_type":3
+  },
+  {
+    "route_id":"78-0",
+    "route_short_name":"78",
+    "route_long_name":"Ligne 78",
+    "route_desc":"Gare de Thouaré-sur-Loire - Haluchère",
+    "route_type":3
+  },
+  {
+    "route_id":"79-0",
+    "route_short_name":"79",
+    "route_long_name":"Ligne 79",
+    "route_desc":"Orvault - Beauséjour",
+    "route_type":3
+  },
+  {
+    "route_id":"80-0",
+    "route_short_name":"80",
+    "route_long_name":"Ligne 80",
+    "route_desc":"Le Cardo - Beauséjour",
+    "route_type":3
+  },
+  {
+    "route_id":"81-0",
+    "route_short_name":"81",
+    "route_long_name":"Ligne 81",
+    "route_desc":"Mendès France - Bellevue - Gare Maritime",
+    "route_type":3
+  },
+  {
+    "route_id":"82-0",
+    "route_short_name":"82",
+    "route_long_name":"Ligne 82",
+    "route_desc":"Le Halleray - Toutes Aides",
+    "route_type":3
+  },
+  {
+    "route_id":"83-0",
+    "route_short_name":"83",
+    "route_long_name":"Ligne 83",
+    "route_desc":"Chassay / Bellevue - Haluchère / Fac de Droit",
+    "route_type":3
+  },
+  {
+    "route_id":"84-0",
+    "route_short_name":"84",
+    "route_long_name":"Ligne 84",
+    "route_desc":"Sinière - Hermeland",
+    "route_type":3
+  },
+  {
+    "route_id":"85-0",
+    "route_short_name":"85",
+    "route_long_name":"Ligne 85",
+    "route_desc":"Bois St-Lys - Haluchère",
+    "route_type":3
+  },
+  {
+    "route_id":"86-0",
+    "route_short_name":"86",
+    "route_long_name":"Ligne 86",
+    "route_desc":"Perrières / Coutancière - Bout des Pavés",
+    "route_type":3
+  },
+  {
+    "route_id":"88-0",
+    "route_short_name":"88",
+    "route_long_name":"Ligne 88",
+    "route_desc":"Bouaye / Brains / St-Léger - Neustrie",
+    "route_type":3
+  },
+  {
+    "route_id":"90-0",
+    "route_short_name":"90",
+    "route_long_name":"Ligne 90",
+    "route_desc":"Sautron - Orvault - Morlière",
+    "route_type":3
+  },
+  {
+    "route_id":"91-0",
+    "route_short_name":"91",
+    "route_long_name":"Ligne 91",
+    "route_desc":"Bac de Couëron/Couëron-Bougon - Mendès France - Bellevue",
+    "route_type":3
+  },
+  {
+    "route_id":"92-0",
+    "route_short_name":"92",
+    "route_long_name":"Ligne 92",
+    "route_desc":"Thouaré / Loire - Toutes Aides",
+    "route_type":3
+  },
+  {
+    "route_id":"93-0",
+    "route_short_name":"93",
+    "route_long_name":"Ligne 93",
+    "route_desc":"Hôpital Laënnec - Hauts de Couëron",
+    "route_type":3
+  },
+  {
+    "route_id":"95-0",
+    "route_short_name":"95",
+    "route_long_name":"Ligne 95",
+    "route_desc":"Souchais - Haluchère",
+    "route_type":3
+  },
+  {
+    "route_id":"96-0",
+    "route_short_name":"96",
+    "route_long_name":"Ligne 96",
+    "route_desc":"L'Aulnay - Beauséjour",
+    "route_type":3
+  },
+  {
+    "route_id":"97-0",
+    "route_short_name":"97",
+    "route_long_name":"Ligne 97",
+    "route_desc":"Vertou - Trentemoult",
+    "route_type":3
+  },
+  {
+    "route_id":"98-0",
+    "route_short_name":"98",
+    "route_long_name":"Ligne 98",
+    "route_desc":"St-Aignan de Grand Lieu - Gréneraie",
+    "route_type":3
+  },
+  {
+    "route_id":"99-0",
+    "route_short_name":"99",
+    "route_long_name":"Ligne 99",
+    "route_desc":"Bac du Pellerin - Neustrie",
+    "route_type":3
+  },
+  {
+    "route_id":"C1-0",
+    "route_short_name":"C1",
+    "route_long_name":"Ligne C1",
+    "route_desc":"Haluchère - Gare de Chantenay",
+    "route_type":3
+  },
+  {
+    "route_id":"C2-0",
+    "route_short_name":"C2",
+    "route_long_name":"Ligne C2",
+    "route_desc":"Le Cardo - Commerce",
+    "route_type":3
+  },
+  {
+    "route_id":"C3-0",
+    "route_short_name":"C3",
+    "route_long_name":"Ligne C3",
+    "route_desc":"Bd de la Baule/Mie St Herblain - Malakoff",
+    "route_type":3
+  },
+  {
+    "route_id":"C4-0",
+    "route_short_name":"C4",
+    "route_long_name":"Ligne C4",
+    "route_desc":"Les Sorinières - Gréneraie",
+    "route_type":3
+  },
+  {
+    "route_id":"LU-0",
+    "route_short_name":"LU",
+    "route_long_name":"Luciole",
+    "route_desc":"Luciole - Luciole",
+    "route_type":3
+  },
+  {
+    "route_id":"NA-0",
+    "route_short_name":"NA",
+    "route_long_name":"Ligne Navette Aéroport",
+    "route_desc":"Nantes Atlantique - Commerce",
+    "route_type":3
+  },
+  {
+    "route_id":"NL-9423",
+    "route_short_name":"NL",
+    "route_long_name":"Ligne Navette Fluviale Loire",
+    "route_desc":"Trentemoult - Roquios - Gare Maritime",
+    "route_type":4
+  },
+  {
+    "route_id":"ZT-0",
+    "route_short_name":"ET",
+    "route_long_name":"Ligne Navette Dépôt Trentemoult",
+    "route_desc":"Commerce / Pirmil / Gréneraie - Dépôt Trentemoult",
+    "route_type":3
+  }
+]

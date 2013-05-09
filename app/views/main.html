@@ -1,0 +1,27 @@
+<div class="hero-unit">
+  <h1>Easy Tan</h1>
+</div>
+<div class="span12">
+  <h3>Tramway</h3>
+  <a href="#/lignes/{{tramway.route_short_name}}" ng-repeat="tramway in tramways">
+    <img ng-src="/images/lignes/{{tramway.route_short_name}}.gif" class="img-polaroid" title="{{tramway.route_desc}}"/>
+  </a>
+</div>
+<div class="span12">
+  <h3>Busway</h3>
+  <a href="#/lignes/{{busway.route_short_name}}" ng-repeat="busway in busways">
+    <img ng-src="/images/lignes/{{busway.route_short_name}}.gif" class="img-polaroid" title="{{busway.route_desc}}"/>
+  </a>
+</div>
+<div class="span12">
+  <h3>Bus</h3>
+  <a href="#/lignes/{{bus.route_short_name}}" ng-repeat="bus in buses">
+    <img ng-src="/images/lignes/{{bus.route_short_name}}.gif" class="img-polaroid" title="{{bus.route_desc}}"/>
+  </a>
+</div>
+<div class="span12">
+  <h3>Navibus</h3>
+  <a href="#/lignes/{{navibus.route_short_name}}" ng-repeat="navibus in navibuses">
+    <img ng-src="/images/lignes/{{navibus.route_short_name}}.gif" class="img-polaroid" title="{{navibus.route_desc}}"/>
+  </a>
+</div>
